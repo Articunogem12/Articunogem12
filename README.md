@@ -11,7 +11,13 @@
   ![](https://img.shields.io/badge/html%20-blue)
   ![](https://img.shields.io/badge/css%20-lightgreen)
   ![](https://img.shields.io/badge/javascript%20-8A2BE2)
+
+<a href="https://github.com/Articunogem12/REPONAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Articunogem12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Customize" />
+</a>
+
+
   
-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://docs.github.com/assets/cb-49631/images/help/issues/issues-labels-button.png)
+  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://docs.github.com/assets/cb-49631/images/help/issues/issues-labels-button.png)
 
 
