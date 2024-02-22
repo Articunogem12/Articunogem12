@@ -19,7 +19,7 @@
 
 
   
-  ![gif programming](https://github.com/Articunogem12/Articunogem12/blob/main/gif.gif)   <img src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" data-canonical-src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" width="400" height="400" />
+  ![gif programming](https://github.com/Articunogem12/Articunogem12/blob/main/gif.gif)   <img src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" data-canonical-src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" width="200" height="200" />
 
 
 
