@@ -15,8 +15,11 @@
 <a href="https://github.com/Articunogem12/REPONAME">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Articunogem12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Customize" />
 </a>
+<br><br>
+
 
   
-  ![gif programming](https://github.com/Articunogem12/Articunogem12/blob/main/gif.gif)
+  ![gif programming](https://github.com/Articunogem12/Articunogem12/blob/main/gif.gif)   <img src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" data-canonical-src="https://github.com/Articunogem12/Articunogem12/blob/main/python.png" width="400" height="400" />
+
 
 
