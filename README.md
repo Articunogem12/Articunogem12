@@ -16,8 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Articunogem12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Customize" />
 </a>
 
-
   
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://docs.github.com/assets/cb-49631/images/help/issues/issues-labels-button.png)
+  ![gif programming](https://github.com/Articunogem12/Articunogem12/blob/main/gif.gif)
 
 
